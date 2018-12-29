@@ -1,2 +1,2 @@
 # hello-tiny-sample
-Spring Boot and PrimeFaces sample
+Sample with Spring Boot, PrimeFaces, JoinFaces, Lombok and Font Awesome from Webjars.
