@@ -1,2 +1,2 @@
-# jsf-boots-demo
-Spring Boot and BootsFaces demo
+# hello-tiny-sample
+Spring Boot and PrimeFaces sample
